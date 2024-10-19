@@ -2,8 +2,8 @@
 
 Let me introduce myself:
 
-- I'm a **Software Developer** from [Your City, Country].
-- I write **Android** and **Web** applications using ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) and ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white).
+- I'm a **Software Developer**.
+- I write Android and Web applications using `Java` + `Kotlin` 👨🏻‍💻
 - I have **4 years** of professional experience.
   
 ### Contact info:
