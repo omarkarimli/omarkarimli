@@ -7,5 +7,5 @@ Let me introduce myself:
 - I have **4 years** of professional experience.
   
 ### Contact info:
-- [Mail](omarkarimli.361@gmail.com) 📧
+- [Mail](mailto:omarkarimli.361@gmail.com) 📧
 - [LinkedIn](https://www.linkedin.com/in/omarkarimli/) 💼
