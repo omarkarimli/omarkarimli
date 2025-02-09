@@ -4,7 +4,7 @@ Let me introduce myself:
 
 - I'm a **Software Developer**.
 - I write Android and Web applications using `Java` + `Kotlin` 👨🏻‍💻
-- I have **Plenty Projects** in my professional experience.
+- I have **Plenty of Projects** in my professional experience.
   
 ### Contact info:
 - [Mail](mailto:omarkarimli.361@gmail.com) 📧
