@@ -14,9 +14,8 @@ Let me introduce myself:
 
 <a href="https://buymeacoffee.com/omar361" target="_blank">
   <img
-    width="1090"
-    height="306"
-    alt="image"
+    width="512"
+    alt="Buy me a coffee"
     src="https://github.com/user-attachments/assets/598db832-4dfc-4855-9855-2fd79cfe0f66"
   />
 </a>
