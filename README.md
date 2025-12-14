@@ -10,4 +10,4 @@ Let me introduce myself:
 - [Mail](mailto:omarkarimli.361@gmail.com) 📧
 - [LinkedIn](https://www.linkedin.com/in/omarkarimli/) 💼
 - [Linktree](https://linktr.ee/omarkarimli) 🔗
-<a href="https://buymeacoffee.com/omar361" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #FF813F; border-radius: 5px; text-decoration: none; margin-bottom: 10px;">☕ Buy me a Coffee!</a>
+- [☕ Buy me a Coffee](https://buymeacoffee.com/omar361)
