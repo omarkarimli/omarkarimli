@@ -10,5 +10,5 @@ Let me introduce myself:
 - [Mail](mailto:omarkarimli.361@gmail.com) 📧
 - [LinkedIn](https://www.linkedin.com/in/omarkarimli/) 💼
 - [Linktree](https://linktr.ee/omarkarimli) 🔗
-- [**☕ Buy me a Coffee!**](https://buymeacoffee.com/omar361)
+- [**☕ Buy me a Coffee**](https://buymeacoffee.com/omar361)
   
